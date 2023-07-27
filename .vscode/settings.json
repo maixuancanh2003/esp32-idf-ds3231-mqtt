@@ -1,0 +1,17 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "freertos.h": "c",
+    "ds3231.h": "c",
+    "esp_sntp.h": "c",
+    "esp_system.h": "c",
+    "task.h": "c",
+    "esp_sleep.h": "c",
+    "esp_log.h": "c",
+    "mqtt_client.h": "c",
+    "event_groups.h": "c",
+    "esp_event.h": "c",
+    "stdint.h": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}
